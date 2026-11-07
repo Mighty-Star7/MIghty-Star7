@@ -13,7 +13,10 @@
 
     Here Are The Languages That Are Part Of My Learning RoadMap
 
-![C](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+## Web Development (Frontend & Backend)
+
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![PHP](https://shields.io)
+
 
 ## Machine Learning & High Performance
 
@@ -21,4 +24,10 @@
 
 ## Game Dev & Scripts
 
-![Lua](https://shields.io) ![Roblox](https://shields.io) *(Luau)*
+ ![C#](https://shields.io) ![Lua](https://shields.io) ![Roblox](https://shields.io) *(Luau)*
+
+## Mobile App Development & Software
+
+![Java](https://shields.io) ![Kotlin](https://shields.io) ![Swift](https://shields.io)
+
+
