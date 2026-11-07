@@ -15,12 +15,12 @@
 
 ## Web Development (Frontend & Backend)
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![PHP](https://shields.io)
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![PHP](https://shields.io) ![SQL](https://shields.io)
 
 
 ## Machine Learning & High Performance
 
-![Python](https://shields.io) ![C++](https://shields.io) ![Go](https://shields.io)
+![C](https://shields.io)! [Python](https://shields.io) ![C++](https://shields.io) ![Go](https://shields.io)
 
 ## Game Dev & Scripts
 
