@@ -20,7 +20,7 @@
 
 ## Machine Learning & High Performance
 
-![C](https://shields.io)! [Python](https://shields.io) ![C++](https://shields.io) ![Go](https://shields.io)
+![C](https://shields.io) ![Python](https://shields.io) ![C++](https://shields.io) ![Go](https://shields.io)
 
 ## Game Dev & Scripts
 
