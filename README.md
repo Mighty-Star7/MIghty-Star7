@@ -13,16 +13,12 @@
 
     Here Are The Languages That Are Part Of My Learning RoadMap
 
-![C](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+![C](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
 ## Machine Learning & High Performance
-![Python](https://shields.io)
-![C++](https://shields.io)
-![Go](https://shields.io)
+
+![Python](https://shields.io) ![C++](https://shields.io) ![Go](https://shields.io)
 
 ## Game Dev & Scripts
 
-![Lua](https://shields.io)
-![Roblox](https://shields.io) *(Luau)*
+![Lua](https://shields.io) ![Roblox](https://shields.io) *(Luau)*
