@@ -32,5 +32,5 @@
 
 ---
 
-* "Success Is The Sum Of Small Commits, Repeated Day In And Day Out."*
+* "Success Is The Sum Of Small Commits, Repeated Day In And Day Out." *
 
