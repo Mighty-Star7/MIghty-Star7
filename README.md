@@ -30,3 +30,7 @@
 
 ![Java](https://shields.io) ![Kotlin](https://shields.io) ![Swift](https://shields.io)
 
+---
+
+* "Success Is The Sum Of Small Commits, Repeated Day In And Day Out."*
+
